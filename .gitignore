@@ -1,24 +1,26 @@
-# React
-frontend/node_modules/
-frontend/build/
-
 # Python
-backend/__pycache__/
-backend/.venv/
-backend/venv/
+venv/
+__pycache__/
 *.pyc
 
-# Environment
+# Flask
+instance/
+
+# Node
+node_modules/
+npm-debug.log
+
+# React
+frontend/build/
+
+# Environment Variables
 .env
-
-# Logs
-*.log
-
-# Docker
-*.tar
 
 # VS Code
 .vscode/
 
-# OS
+# OS Files
 .DS_Store
+
+# Logs
+*.log
