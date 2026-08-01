@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: ConfigMap
+
+metadata:
+  name: office-config
+  namespace: office-app
+
+data:
+  DB_HOST: officedb.c1ksc204yo6w.ap-southeast-1.rds.amazonaws.com
+  DB_NAME: officedb
+  DB_PORT: "3306"
+  FLASK_ENV: production
