@@ -10,37 +10,7 @@ The application is designed for scalability, high availability, monitoring, cent
 
 # 🏗️ Architecture
 
-```
-Internet Users
-      │
-      ▼
-AWS Application Load Balancer
-      │
-      ▼
-AWS Load Balancer Controller
-      │
-      ▼
-Amazon EKS Cluster
-      │
- ┌───────────────┐
- │ Frontend Pods │
- └───────────────┘
-      │
- ┌───────────────┐
- │ Backend Pods  │
- └───────────────┘
-      │
-Amazon RDS (MySQL)
-
-Monitoring
-Prometheus → Grafana
-
-Logging
-Fluent Bit → CloudWatch
-
-Storage
-PVC → StorageClass → Amazon EBS
-```
+![Uploading ChatGPT Image Aug 2, 2026, 10_48_24 AM.png…]()
 
 ---
 
