@@ -10,7 +10,8 @@ The application is designed for scalability, high availability, monitoring, cent
 
 # 🏗️ Architecture
 
-![Uploading ChatGPT Image Aug 2, 2026, 10_48_24 AM.png…]()
+<img width="554" height="785" alt="image" src="https://github.com/user-attachments/assets/c576f930-c713-4402-a3f1-197cf64f3d8c" />
+
 
 ---
 
