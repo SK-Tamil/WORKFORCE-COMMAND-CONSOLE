@@ -320,8 +320,8 @@ Add screenshots such as:
   <img width="553" height="260" alt="image" src="https://github.com/user-attachments/assets/f6dc7f37-d247-4eb2-b015-3f1f103f2d8d" />
 
 * Application UI
-  <img width="553" height="260" alt="image" src="https://github.com/user-attachments/assets/a7996427-5827-45d3-af82-dc4c7bf7387d" />
-
+  <img width="554" height="333" alt="image" src="https://github.com/user-attachments/assets/7b6c7bcc-50fa-44cd-81f0-228650cd937b" />
+  
 ---
 
 # 👨‍💻 Author
